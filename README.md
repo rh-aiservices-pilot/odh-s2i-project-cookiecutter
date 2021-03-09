@@ -18,7 +18,7 @@ $ pip install cookiecutter
 ### To start a new project, run:
 ------------
 
-    cookiecutter https://github.com/cfchase/odh-s2i=cookiecutter
+    cookiecutter https://github.com/rh-aiservices-pilot/odh-s2i=cookiecutter
 
 
 ### The resulting directory structure
